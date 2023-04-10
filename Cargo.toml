@@ -28,7 +28,7 @@ features = ["derive"]
 num_cpus   = "1.13.0"
 cc         = "1.0.67"
 pkg-config = "0.3.19"
-bindgen    = "0.59.1"
+bindgen    = "0.64.0"
 regex      = "1"
 
 [target.'cfg(target_env = "msvc")'.build-dependencies]
